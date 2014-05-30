@@ -1,0 +1,2 @@
+@monthly /home/sathiya/monthly-backup
+00 09-18 * * * /home/sathiya/check-db-status
